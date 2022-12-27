@@ -51,12 +51,12 @@ export default class Home extends Component{
                                     </div>
                                     <div className="carding__content">
                                         <h2 className="title carding_title">Lenovo - 2022 - IdeaPad 3i - Essential Laptop Computer - Intel Core i5 12th Gen - 15.6" FHD Display - 8GB Memory - 512GB Storage</h2>
-                                        <div className="stars">
+                                        {/* <div className="stars">
                                             <div className="stars__container">
                                                 <div className="star star-inner" style={{width:`${Math.round(9 * 10)}%`}}></div>
                                                 <div className="star star-out"></div>
                                             </div>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </Link>
                                 <Link to="/Electron/Catalog/Camers/1" className="carding">
@@ -70,12 +70,12 @@ export default class Home extends Component{
                                     </div>
                                     <div className="carding__content">
                                         <h2 className="title carding_title">Lenovo - 2022 - IdeaPad 3i - Essential Laptop Computer - Intel Core i5 12th Gen - 15.6" FHD Display - 8GB Memory - 512GB Storage</h2>
-                                        <div className="stars">
+                                        {/* <div className="stars">
                                             <div className="stars__container">
                                                 <div className="star star-inner" style={{width:`${Math.round(8 * 10)}%`}}></div>
                                                 <div className="star star-out"></div>
                                             </div>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </Link>
                                 <Link to="/Electron/Catalog/Camers/1" className="carding">
@@ -89,12 +89,12 @@ export default class Home extends Component{
                                     </div>
                                     <div className="carding__content">
                                         <h2 className="title carding_title">Lenovo - 2022 - IdeaPad 3i - Essential Laptop Computer - Intel Core i5 12th Gen - 15.6" FHD Display - 8GB Memory - 512GB Storage</h2>
-                                        <div className="stars">
+                                        {/* <div className="stars">
                                             <div className="stars__container">
                                                 <div className="star star-inner" style={{width:`${Math.round(4 * 10)}%`}}></div>
                                                 <div className="star star-out"></div>
                                             </div>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </Link>
                             </div>

@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Khmer";
+    src: url("../../fonts/khmer.ttf");
+}
+
+@font-face {
+    font-family: "Jost";
+    src: url("../../fonts/Jost.ttf");
+}
+
+@font-face {
+    font-family: "JosefinSans";
+    src: url("../../fonts/JosefinSans.ttf");
+}
+
+.title{font-weight: normal;}
+
+.logo,.anchor{font-family: "Khmer"; letter-spacing: 0.32rem;}
+
+.price,.link,.header_link,.descriptions,.comment_text,.specifications>*{font-family: "Jost";}
+
+.link{font-size: 1rem;}
+
+.dol{font-size: 16px;}
+.rub,.evr{font-size: 12px; opacity: 0.64;}
+
+.header_link{letter-spacing: 0.12rem;}
+
+.descriptions{color: $general;}
+
+.section_title,.card_product,.title_assortment,.footer_link,.footer_title,.product_title{font-family: "JosefinSans"; letter-spacing: 0.12rem;}
+
+.section_title{color: $secondary; font-size: 1.3rem;}
+
+.card_product{font-size: 1.25rem;}
+
+.title_assortment{font-size: 1.25rem; color: $general;}
+
+.footer_title{font-size: 1.5rem; color: $general;}

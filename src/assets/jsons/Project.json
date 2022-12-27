@@ -1,0 +1,645 @@
+{
+  "Catalog": {
+  "Laptops":[
+    {
+      "title": "Ноутбук ASUS A516JF-BR329",
+      "price": {"Dol": 224.99,"Rub": 39990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Pentium 6805 1.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA GeForce Mx130 - 2048 Mb",
+        "Window":"1366x768"
+      },
+      "bg":["https://items.s1.citilink.ru/1522545_v01_b.jpg","https://items.s1.citilink.ru/1522545_v03_b.jpg","https://items.s1.citilink.ru/1522545_v06_b.jpg"],
+      "id": 1
+    },
+    {
+      "title": "ASUS X409FA-BV593",
+      "price": {"Dol": 224.99,"Rub": 33990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i3 10110U 2.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"Intel UHD Graphics",
+        "Window":"1366x768"
+      },
+      "bg":["https://items.s1.citilink.ru/1840466_v01_b.jpg","https://items.s1.citilink.ru/1840466_v04_b.jpg","https://items.s1.citilink.ru/1840466_v05_b.jpg"],
+      "id": 2
+    },
+    {
+      "title": "Thunderobot 911 Air D",
+      "price": {"Dol": 224.99,"Rub": 61999,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"1 Tb",
+        "Card":"GeForce GTX 1650 4GB",
+        "Window":"1366x768"
+      },
+      "bg":["https://img.mvideo.ru/Big/30063680bb.jpg","https://img.mvideo.ru/Big/30063680bb2.jpg","https://img.mvideo.ru/Big/30063680bb5.jpg"],
+      "id": 3
+    },
+    {
+      "title": "Lenovo Legion 5 15IMH6",
+      "price": {"Dol": 224.99,"Rub": 101589,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 10500H 2.5 ГГц",
+        "Memory":"16 Gb",
+        "SSD":"512 Gb",
+        "Card":"NVIDIA GeForce RTX 3050 Ti",
+        "Window":"1920x1080"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/6321906/img_id903080856095721948.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6325594/img_id3998098865029438383.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6479667/img_id3555654026722472779.jpeg/orig"],
+      "id": 4
+    },
+    {
+      "title": "Thunderobot 911 Air D",
+      "price": {"Dol": 224.99,"Rub": 99990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA® GeForce RTX™ 3060 Laptop GPU",
+        "Window":"17.3"
+      },
+      "bg":["https://haieronline.ru/upload/iblock/6ed/99000d76r3x4nwmutgocsrevkmiq748b/image_2022_10_08_21_23_02_909.png","https://haieronline.ru/upload/iblock/172/dyb98flmhjxkdahc8bneyv85q7lo2itj/image_2022_10_08_21_23_02_465.webp","https://haieronline.ru/upload/iblock/358/ahg7d60n10doisvmgvsovw1is9986dqe/img-_2_.webp"],
+      "id": 5
+    }
+  ],
+  "Console":[
+    {
+      "title": "Microsoft Xbox Series X RRT-00014",
+      "price": {"Dol": 224.99,"Rub": 54999 ,"Evr": 199},
+      "type":"Console",
+      "info":{
+        "Processor":"AMD Custom Zen 2",
+        "Memory":"16 Gb",
+        "SSD":"1 Tb",
+        "Model":"RRT-00014",
+        "Family":"Xbox Series"
+      },
+      "bg":["https://items.s1.citilink.ru/1856135_v01_b.jpg","https://items.s1.citilink.ru/1522545_v03_b.jpg","https://items.s1.citilink.ru/1522545_v06_b.jpg"],
+      "id": 1
+    },
+    {
+      "title": "Play Station Pro X Serius",
+      "price": {"Dol": 224.99,"Rub": 33990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i3 10110U 2.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Model":"RRT-00014",
+        "Family":"PS Series"
+      },
+      "bg":["https://items.s1.citilink.ru/1891980_v01_b.jpg","https://items.s1.citilink.ru/1840466_v04_b.jpg","https://items.s1.citilink.ru/1840466_v05_b.jpg"],
+      "id": 2
+    },
+    {
+      "title": "Nintendo Switch OLED",
+      "price": {"Dol": 224.99,"Rub": 61999,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"16 Gb",
+        "Hard":"64 Gb",
+        "Model":"RRT-00014",
+        "Family":"Switch Series"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/5209894/img_id5757811132203308192.jpeg/orig","https://img.mvideo.ru/Big/30063680bb2.jpg","https://img.mvideo.ru/Big/30063680bb5.jpg"],
+      "id": 3
+    },
+    {
+      "title": "PlayStation 4 Slim",
+      "price": {"Dol": 224.99,"Rub": 101589,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 10500H 2.5 ГГц",
+        "Memory":"16 Gb",
+        "SSD":"1 Tb",
+        "Model":"RRT-00014",
+        "Family":"PlayStation Series"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/5288893/img_id487264016258795176.png/orig","https://avatars.mds.yandex.net/get-mpic/6325594/img_id3998098865029438383.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6479667/img_id3555654026722472779.jpeg/orig"],
+      "id": 4
+    },
+    {
+      "title": "Microsoft Xbox Series S",
+      "price": {"Dol": 224.99,"Rub": 99990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"24 Gb",
+        "Hard":"512 Gb",
+        "Model":"RRT-00014",
+        "Family":"Xbox Series"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/5280669/img_id7940624479204532344.png/orig","https://haieronline.ru/upload/iblock/172/dyb98flmhjxkdahc8bneyv85q7lo2itj/image_2022_10_08_21_23_02_465.webp","https://haieronline.ru/upload/iblock/358/ahg7d60n10doisvmgvsovw1is9986dqe/img-_2_.webp"],
+      "id": 5
+    }
+  ],
+  "Kitchen":[
+    {
+      "title": "Ноутбук ASUS A516JF-BR329",
+      "price": {"Dol": 224.99,"Rub": 39990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Pentium 6805 1.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA GeForce Mx130 - 2048 Mb",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/4345877/img_id9213868015909043111.jpeg/orig","https://items.s1.citilink.ru/1522545_v03_b.jpg","https://items.s1.citilink.ru/1522545_v06_b.jpg"],
+      "id": 1
+    },
+    {
+      "title": "ASUS X409FA-BV593",
+      "price": {"Dol": 224.99,"Rub": 33990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i3 10110U 2.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"Intel UHD Graphics",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/7473874/img_id6546657313821172214.jpeg/orig","https://items.s1.citilink.ru/1840466_v04_b.jpg","https://items.s1.citilink.ru/1840466_v05_b.jpg"],
+      "id": 2
+    },
+    {
+      "title": "Thunderobot 911 Air D",
+      "price": {"Dol": 224.99,"Rub": 61999,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"1 Tb",
+        "Card":"GeForce GTX 1650 4GB",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/466729/img_id100994610055788312/orig","https://img.mvideo.ru/Big/30063680bb2.jpg","https://img.mvideo.ru/Big/30063680bb5.jpg"],
+      "id": 3
+    },
+    {
+      "title": "Lenovo Legion 5 15IMH6",
+      "price": {"Dol": 224.99,"Rub": 101589,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 10500H 2.5 ГГц",
+        "Memory":"16 Gb",
+        "SSD":"512 Gb",
+        "Card":"NVIDIA GeForce RTX 3050 Ti",
+        "Window":"1920x1080"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/5254153/img_id3875335962084932148.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6325594/img_id3998098865029438383.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6479667/img_id3555654026722472779.jpeg/orig"],
+      "id": 4
+    },
+    {
+      "title": "Thunderobot 911 Air D",
+      "price": {"Dol": 224.99,"Rub": 99990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA® GeForce RTX™ 3060 Laptop GPU",
+        "Window":"17.3"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/7543961/img_id1312294936151981018.jpeg/orig","https://haieronline.ru/upload/iblock/172/dyb98flmhjxkdahc8bneyv85q7lo2itj/image_2022_10_08_21_23_02_465.webp","https://haieronline.ru/upload/iblock/358/ahg7d60n10doisvmgvsovw1is9986dqe/img-_2_.webp"],
+      "id": 5
+    }
+  ],
+  "Software":[
+    {
+      "title": "Ноутбук ASUS A516JF-BR329",
+      "price": {"Dol": 224.99,"Rub": 39990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Pentium 6805 1.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA GeForce Mx130 - 2048 Mb",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/1859594/img_id1559938298777409249.jpeg/orig","https://items.s1.citilink.ru/1522545_v03_b.jpg","https://items.s1.citilink.ru/1522545_v06_b.jpg"],
+      "id": 1
+    },
+    {
+      "title": "ASUS X409FA-BV593",
+      "price": {"Dol": 224.99,"Rub": 33990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i3 10110U 2.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"Intel UHD Graphics",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/4944925/img_id5782864981534811373.jpeg/orig","https://items.s1.citilink.ru/1840466_v04_b.jpg","https://items.s1.citilink.ru/1840466_v05_b.jpg"],
+      "id": 2
+    },
+    {
+      "title": "Thunderobot 911 Air D",
+      "price": {"Dol": 224.99,"Rub": 61999,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"1 Tb",
+        "Card":"GeForce GTX 1650 4GB",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/4575382/img_id8879227971221606842.jpeg/orig","https://img.mvideo.ru/Big/30063680bb2.jpg","https://img.mvideo.ru/Big/30063680bb5.jpg"],
+      "id": 3
+    },
+    {
+      "title": "Lenovo Legion 5 15IMH6",
+      "price": {"Dol": 224.99,"Rub": 101589,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 10500H 2.5 ГГц",
+        "Memory":"16 Gb",
+        "SSD":"512 Gb",
+        "Card":"NVIDIA GeForce RTX 3050 Ti",
+        "Window":"1920x1080"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-goods_pic/5635291/pic2e7809c594eca97525e5127f873d7419/orig","https://avatars.mds.yandex.net/get-mpic/6325594/img_id3998098865029438383.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6479667/img_id3555654026722472779.jpeg/orig"],
+      "id": 4
+    },
+    {
+      "title": "Thunderobot 911 Air D",
+      "price": {"Dol": 224.99,"Rub": 99990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA® GeForce RTX™ 3060 Laptop GPU",
+        "Window":"17.3"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/5287649/img_id5280496976259119506.png/orig","https://haieronline.ru/upload/iblock/172/dyb98flmhjxkdahc8bneyv85q7lo2itj/image_2022_10_08_21_23_02_465.webp","https://haieronline.ru/upload/iblock/358/ahg7d60n10doisvmgvsovw1is9986dqe/img-_2_.webp"],
+      "id": 5
+    }
+  ],
+  "Music":[
+    {
+      "title": "Ноутбук ASUS A516JF-BR329",
+      "price": {"Dol": 224.99,"Rub": 39990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Pentium 6805 1.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA GeForce Mx130 - 2048 Mb",
+        "Window":"1366x768"
+      },
+      "bg":["https://skifmusic.ru/thumbs/47/7d/420x420_1_normal_9d14f60d6c15d790b1595acb7e90.jpg","https://items.s1.citilink.ru/1522545_v03_b.jpg","https://items.s1.citilink.ru/1522545_v06_b.jpg"],
+      "id": 1
+    },
+    {
+      "title": "ASUS X409FA-BV593",
+      "price": {"Dol": 224.99,"Rub": 33990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i3 10110U 2.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"Intel UHD Graphics",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/7144437/img_id4739271633625462422.jpeg/orig","https://items.s1.citilink.ru/1840466_v04_b.jpg","https://items.s1.citilink.ru/1840466_v05_b.jpg"],
+      "id": 2
+    },
+    {
+      "title": "Thunderobot 911 Air D",
+      "price": {"Dol": 224.99,"Rub": 61999,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"1 Tb",
+        "Card":"GeForce GTX 1650 4GB",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-goods_pic/6202791/pic4c88d4e69bd522e9e3e7f10dfc40dc43/orig","https://img.mvideo.ru/Big/30063680bb2.jpg","https://img.mvideo.ru/Big/30063680bb5.jpg"],
+      "id": 3
+    },
+    {
+      "title": "Lenovo Legion 5 15IMH6",
+      "price": {"Dol": 224.99,"Rub": 101589,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 10500H 2.5 ГГц",
+        "Memory":"16 Gb",
+        "SSD":"512 Gb",
+        "Card":"NVIDIA GeForce RTX 3050 Ti",
+        "Window":"1920x1080"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/5221004/img_id8798982825270862673.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6325594/img_id3998098865029438383.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6479667/img_id3555654026722472779.jpeg/orig"],
+      "id": 4
+    },
+    {
+      "title": "Thunderobot 911 Air D",
+      "price": {"Dol": 224.99,"Rub": 99990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA® GeForce RTX™ 3060 Laptop GPU",
+        "Window":"17.3"
+      },
+      "bg":["https://skifmusic.ru/thumbs/3d/f6/x_1_normal_075a31071dfd43deea848410fb96.jpg","https://haieronline.ru/upload/iblock/172/dyb98flmhjxkdahc8bneyv85q7lo2itj/image_2022_10_08_21_23_02_465.webp","https://haieronline.ru/upload/iblock/358/ahg7d60n10doisvmgvsovw1is9986dqe/img-_2_.webp"],
+      "id": 5
+    }
+  ],
+  "GraphicTablets":[
+    {
+      "title": "Gaomon PD1161",
+      "price": {"Dol": 224.99,"Rub": 39990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Pentium 6805 1.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA GeForce Mx130 - 2048 Mb",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/4448884/img_id8800141955706758374.png/orig","https://items.s1.citilink.ru/1522545_v03_b.jpg","https://items.s1.citilink.ru/1522545_v06_b.jpg"],
+      "id": 1
+    },
+    {
+      "title": "HUION KAMVAS Pro 20",
+      "price": {"Dol": 224.99,"Rub": 33990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i3 10110U 2.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"Intel UHD Graphics",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/2008455/img_id4535304589313477799.png/orig","https://items.s1.citilink.ru/1840466_v04_b.jpg","https://items.s1.citilink.ru/1840466_v05_b.jpg"],
+      "id": 2
+    },
+    {
+      "title": "XP-PEN Artist 12 Pro black",
+      "price": {"Dol": 224.99,"Rub": 61999,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"1 Tb",
+        "Card":"GeForce GTX 1650 4GB",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/1923211/img_id6346095166654405039.jpeg/orig","https://img.mvideo.ru/Big/30063680bb2.jpg","https://img.mvideo.ru/Big/30063680bb5.jpg"],
+      "id": 3
+    },
+    {
+      "title": "Huion Black Kamvas 16",
+      "price": {"Dol": 224.99,"Rub": 101589,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 10500H 2.5 ГГц",
+        "Memory":"16 Gb",
+        "SSD":"512 Gb",
+        "Card":"NVIDIA GeForce RTX 3050 Ti",
+        "Window":"1920x1080"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/5204675/img_id9136500803822774014.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6325594/img_id3998098865029438383.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6479667/img_id3555654026722472779.jpeg/orig"],
+      "id": 4
+    },
+    {
+      "title": "XP-PEN Innovator 16 silver",
+      "price": {"Dol": 224.99,"Rub": 99990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA® GeForce RTX™ 3060 Laptop GPU",
+        "Window":"17.3"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/1866068/img_id8638227130254016320.jpeg/orig","https://haieronline.ru/upload/iblock/172/dyb98flmhjxkdahc8bneyv85q7lo2itj/image_2022_10_08_21_23_02_465.webp","https://haieronline.ru/upload/iblock/358/ahg7d60n10doisvmgvsovw1is9986dqe/img-_2_.webp"],
+      "id": 5
+    }
+  ],
+  "Provoda":[
+    {
+      "title": "Ноутбук ASUS A516JF-BR329",
+      "price": {"Dol": 224.99,"Rub": 39990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Pentium 6805 1.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA GeForce Mx130 - 2048 Mb",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/5233990/img_id4778896203761236711.jpeg/orig","https://items.s1.citilink.ru/1522545_v03_b.jpg","https://items.s1.citilink.ru/1522545_v06_b.jpg"],
+      "id": 1
+    },
+    {
+      "title": "ASUS X409FA-BV593",
+      "price": {"Dol": 224.99,"Rub": 33990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i3 10110U 2.1ГГц",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"Intel UHD Graphics",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/5323398/img_id8054429399457048668.jpeg/orig","https://items.s1.citilink.ru/1840466_v04_b.jpg","https://items.s1.citilink.ru/1840466_v05_b.jpg"],
+      "id": 2
+    },
+    {
+      "title": "Thunderobot 911 Air D",
+      "price": {"Dol": 224.99,"Rub": 61999,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"1 Tb",
+        "Card":"GeForce GTX 1650 4GB",
+        "Window":"1366x768"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/6342941/img_id6745918904171812490.jpeg/orig","https://img.mvideo.ru/Big/30063680bb2.jpg","https://img.mvideo.ru/Big/30063680bb5.jpg"],
+      "id": 3
+    },
+    {
+      "title": "Lenovo Legion 5 15IMH6",
+      "price": {"Dol": 224.99,"Rub": 101589,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 10500H 2.5 ГГц",
+        "Memory":"16 Gb",
+        "SSD":"512 Gb",
+        "Card":"NVIDIA GeForce RTX 3050 Ti",
+        "Window":"1920x1080"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/4255269/img_id130686595063029747.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6325594/img_id3998098865029438383.jpeg/orig","https://avatars.mds.yandex.net/get-mpic/6479667/img_id3555654026722472779.jpeg/orig"],
+      "id": 4
+    },
+    {
+      "title": "Thunderobot 911 Air D",
+      "price": {"Dol": 224.99,"Rub": 99990,"Evr": 199},
+      "type":"Laptop",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA® GeForce RTX™ 3060 Laptop GPU",
+        "Window":"17.3"
+      },
+      "bg":["https://avatars.mds.yandex.net/get-mpic/4399094/img_id6101028274577400755.jpeg/orig","https://haieronline.ru/upload/iblock/172/dyb98flmhjxkdahc8bneyv85q7lo2itj/image_2022_10_08_21_23_02_465.webp","https://haieronline.ru/upload/iblock/358/ahg7d60n10doisvmgvsovw1is9986dqe/img-_2_.webp"],
+      "id": 5
+    }
+  ]
+  },
+  "Assortment":[
+    {
+      "title": "VR Oculus Rift XP-86",
+      "price": {"Dol": 224.99,"Rub": 61999,"Evr": 199},
+      "description":"The following purchases with Apple Card are ineligible to earn 5% back: monthly financing through Apple Card Monthly Installments, Apple iPhone Payments, the iPhone Upgrade Program, and wireless carrier financing plans; Apple Media Services; AppleCare+ monthly payments. Subject to credit approval. Valid only on qualifying purchases in U.S. for new Apple Card customers who open an account and use it from 12/1/22 to 12/25/22 at Apple Store locations, apple.com(Opens in a new window), the Apple Store app, or by calling 1-800-MY-APPLE. Accounts opened before 12/1/22 or after 12/25/22 do not qualify. New Apple Card users added to an Apple Card Family account opened during offer period can earn 5% back on their own purchases.",
+      "type":"VRA",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"1 Tb",
+        "Card":"GeForce GTX 1650 4GB",
+        "Window":"1366x768"
+      },
+      "bg":0,
+      "id": 1
+    },
+    {
+      "title": "Graphic Tablet Gamon 2044 FHD",
+      "price": {"Dol": 224.99,"Rub": 101589,"Evr": 199},
+      "description":"The following purchases with Apple Card are ineligible to earn 5% back: monthly financing through Apple Card Monthly Installments, Apple iPhone Payments, the iPhone Upgrade Program, and wireless carrier financing plans; Apple Media Services; AppleCare+ monthly payments. Subject to credit approval. Valid only on qualifying purchases in U.S. for new Apple Card customers who open an account and use it from 12/1/22 to 12/25/22 at Apple Store locations, apple.com(Opens in a new window), the Apple Store app, or by calling 1-800-MY-APPLE. Accounts opened before 12/1/22 or after 12/25/22 do not qualify. New Apple Card users added to an Apple Card Family account opened during offer period can earn 5% back on their own purchases.",
+      "type":"Grafic",
+      "info":{
+        "Processor":"Intel Core i5 10500H 2.5 ГГц",
+        "Memory":"16 Gb",
+        "SSD":"512 Gb",
+        "Card":"NVIDIA GeForce RTX 3050 Ti",
+        "Window":"1920x1080"
+      },
+      "bg":1,
+      "id": 2
+    },
+    {
+      "title": "Play Station Pro X Serius",
+      "price": {"Dol": 224.99,"Rub": 99990,"Evr": 199},
+      "description":"The following purchases with Apple Card are ineligible to earn 5% back: monthly financing through Apple Card Monthly Installments, Apple iPhone Payments, the iPhone Upgrade Program, and wireless carrier financing plans; Apple Media Services; AppleCare+ monthly payments. Subject to credit approval. Valid only on qualifying purchases in U.S. for new Apple Card customers who open an account and use it from 12/1/22 to 12/25/22 at Apple Store locations, apple.com(Opens in a new window), the Apple Store app, or by calling 1-800-MY-APPLE. Accounts opened before 12/1/22 or after 12/25/22 do not qualify. New Apple Card users added to an Apple Card Family account opened during offer period can earn 5% back on their own purchases.",
+      "type":"Console",
+      "info":{
+        "Processor":"Intel Core i5 11260H 2.6",
+        "Memory":"8 Gb",
+        "Hard":"256 Gb",
+        "Card":"NVIDIA® GeForce RTX™ 3060 Laptop GPU",
+        "Window":"17.3"
+      },
+      "bg":2,
+      "id": 3
+    }
+  ],
+  "Discounts": [],
+  "Delivery": [],
+  "Favorites": [],
+  "Contacts": [],
+  "Home": {
+    "HomeAssortment": [
+      {
+        "title": "VR ACCESSORIES",
+        "miniInfo": "The following purchases with Apple Card are ineligible to earn 5% back: monthly financing through Apple Card Monthly Installments, Apple iPhone Payments, the iPhone Upgrade Program, and wireless carrier financing plans; Apple Media Services; AppleCare+ monthly payments. Subject to credit approval. Valid only on qualifying purchases in U.S. for new Apple Card customers who open an account and use it from 12/1/22 to 12/25/22 at Apple Store locations, apple.com(Opens in a new window), the Apple Store app, or by calling 1-800-MY-APPLE. Accounts opened before 12/1/22 or after 12/25/22 do not qualify. New Apple Card users added to an Apple Card Family account opened during offer period can earn 5% back on their own purchases.",
+        "poster": 0,
+        "id": 6
+      }
+    ],
+    "HomeDiscounts": [
+      {
+        "href": "/Graphic-Tablets/",
+        "title": "X pen Pro",
+        "oldPrice": {
+          "$": 53,
+          "₽": 3453,
+          "€": 353
+        },
+        "newPrice": {
+          "$": 32,
+          "₽": 2643,
+          "€": 253
+        },
+        "poster": 0,
+        "id": 6
+      }
+    ],
+    "HomeProducts": [
+      {
+        "href": "PC",
+        "title": "PC / Accessories",
+        "poster": 0
+      },
+      {
+        "href": "Consoles",
+        "title": "Consoles / Accessories",
+        "poster": 1
+      },
+      {
+        "href": "ARV",
+        "title": "VR / AR",
+        "poster": 2
+      },
+      {
+        "href": "Cameras",
+        "title": "Cameras",
+        "poster": 3
+      },
+      {
+        "href": "Musicals",
+        "title": "Musical Equipment",
+        "poster": 4
+      },
+      {
+        "href": "Graphic-Tablets",
+        "title": "Graphic Tablets",
+        "poster": 5
+      },
+      {
+        "href": "Phones",
+        "title": "Phones / Accessories",
+        "poster": 6
+      },
+      {
+        "href": "Tablets",
+        "title": "Tablets / Accessories",
+        "poster": 7
+      },
+      {
+        "href": "Kitchen",
+        "title": "Everything For The Kitchen",
+        "poster": 8
+      },
+      {
+        "href": "Software-Hardware",
+        "title": "Software / Hardware",
+        "poster": 9
+      }
+    ]
+  },
+  "Footer": {
+    "Get To Know Us": ["Electron Blog","About Electron","Investor Relations","Electron Devices","Electron Science"],
+    "Make Money With Us": ["Sell products on Electron","Sell on Electron Business","Sell apps on Electron","Become an Affiliate","Advertise Your Products","Self-Publish with Us","Host an Electron Hub"],
+    "Electron Payment Products": ["Electron Business Card","Shop with Electron Points","Reload Your Balance","Electron Currency Converter"],
+    "Let Us Help You": ["Your Account","Your Orders","Shipping Rates & Policies","Returns & Replacements","Manage Your Content and Devices","Electron Assistant","Help"]
+  }
+}

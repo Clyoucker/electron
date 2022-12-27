@@ -1,0 +1,24 @@
+{
+  "Catalog": {
+    "poster": "str",
+    "href": "str",
+    "title": "str",
+    "info": "list",
+    "price": "list",
+    "star": "int"
+  },
+  "Discounts": {},
+  "Delivery": {},
+  "Favorites": {},
+  "Contacts": {},
+  "Home": {},
+  "HomeAssortment": {},
+  "HomeDiscounts": {},
+  "HomeProducts": {},
+  "Footer": {
+    "ulOne": "list",
+    "ulTwo": "list",
+    "ulThree": "list",
+    "ulFour": "list"
+  }
+}

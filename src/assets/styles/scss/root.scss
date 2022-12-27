@@ -1,0 +1,30 @@
+// COLORS
+
+$dark: #000000;
+$clear: #FFFFFF;
+$general: #191919;
+$secondary : #F28220;
+
+// MARGINS
+
+$margin-center: 0 auto;
+
+// SIZES
+
+$fr: 1fr;
+$full-height: 100%;
+
+// EFFECTS
+
+$transition: all ease-in-out 0.3s;
+
+// BASE
+
+$page-bg: $clear;
+
+$header-size:128px;
+$main-size:$fr;
+$footer-size:512px;
+
+$header-bg: $general;
+$footer-bg: $secondary;

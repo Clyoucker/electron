@@ -1,0 +1,22 @@
+%card-product-caregories,
+%card-new-assortment,
+%link-button,
+%header-link,
+%slider,
+.img,.price,.slide-btn{
+    transition: $transition;&>*{transition: $transition;}
+}
+
+%card-product-caregories{&:hover{background-color: $secondary; .img_product{transform: scale(1.05);}}}
+
+%card-new-assortment{&:hover{.images{background-color: $secondary; .img{transform: scale(1.1); padding: 0;}}.prices{.price{color: $clear;}}}}
+
+%link-button{&:hover{color: $general; background-color: $secondary;}}
+
+%header-link{&:hover{color: $secondary;}}
+
+%img-season{&:hover{background-color: $secondary; cursor: pointer;}}
+
+%sliders{&:hover{.slider__btns{&>*{opacity: 1;}}}}
+
+%slider{&:hover{background-color: rgba($color: $secondary, $alpha: 0.24); cursor: pointer;}}

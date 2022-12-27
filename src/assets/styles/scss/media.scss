@@ -5,6 +5,21 @@
     .page{.root{.content{padding: 0 calc(24px - 1vw);}}}
     .logo{font-size: calc(8px + 1.8vw);}
     .header_link{font-size: 1.8vw;}
+    .section-top-selers{
+        .content_row{
+            .card-grid{
+                grid-template-columns: repeat(3,minmax(128px,calc(256px + 6vw)));
+                .carding{
+                    &__image{
+                        height: calc(86px + 6vw);
+                    }
+                    &__content{
+                        .carding_title{font-size: 1.4vw;}
+                    }
+                }
+            }
+        }
+    }
     .section-new-assortments{
         .assortment{
             .card-assortment{
@@ -88,6 +103,29 @@
     .page{.root{.wrapper{.header{.content_row{.header-nav{display: none;}}}}}}
     .page{.root{.wrapper{.header{.content_row{justify-content: space-between; padding: 0 6px; .burger{display: grid;}}}}}}
     .page{.root{.wrapper{grid-template-rows: 64px 1fr 42px; .footer{height: 42px; .content_row{.footer-nav{display: none;}}}}}} 
+    .section-top-selers{
+        .content_row{
+            .card-grid{
+                grid-template-columns: unset;
+                grid-template-areas: 
+                "A A A B B B"
+                "C C C C C C";
+                .carding:nth-child(1){grid-area: A;}
+                .carding:nth-child(2){grid-area: B;}
+                .carding:nth-child(3){grid-area: C;}
+                .carding{
+                    border-radius: 0;
+                    &__image{
+                        height: calc(86px + 6vw);
+                    }
+                    &__content{
+                        .carding_title{font-size: 1.6vw;}
+                    }
+                }
+            }
+        }
+    }
+    .stars{.star{font-size: 3vw;}}
     .section-new-assortments{
         .assortment{
             .card-assortment{
@@ -203,6 +241,24 @@
 @media all and (max-width:480px){
     .link-button{border-radius: 0;}
     .page{.root{.content{padding: 0}}}
+    .section-top-selers{
+        .content_row{
+            .card-grid{
+                grid-template-areas: 
+                "A A A A A A"
+                "B B B B B B"
+                "C C C C C C";
+                .carding{
+                    &__image{
+                    }
+                    &__content{
+                        .carding_title{font-size: 3.5vw;}
+                    }
+                }
+            }
+        }
+    }
+    .stars{.star{font-size: 1em;}}
     .section-new-assortment{
         .section__content{
             .top{

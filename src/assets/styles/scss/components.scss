@@ -9,6 +9,41 @@
     }
 }
 
+.section-top-selers{
+
+    &:nth-child(1){margin-top: 0;}
+    .content{
+        height: 100%;
+        &_row{
+            display: flex; flex-direction: column; justify-content: space-evenly;
+            min-height: 640px;
+            padding-top: 24px;
+            .title{color: #ffffff;}
+            .card-grid{
+                display: grid; grid-template-columns: repeat(3,minmax(320px,calc(420px + 6vw))); gap: 12px;
+                justify-content: space-between;
+                .carding{
+                    background-color: $general;
+                    padding: 12px;
+                    border-radius: 6px;
+                    &__image{
+                        position: relative;
+                        height: 256px;
+                        .img{object-fit: contain;}
+                        .prices{position: absolute; color: $secondary; top: 8px; right: 8px; .price{text-align: end;}}
+                    }
+                    &__content{
+                        &>*{margin-bottom: 12px;}
+                        &>*:nth-last-child(1){margin-bottom: 0;}
+                        .carding_title{font-size: .8em; text-align: center;}
+
+                    }
+                }
+            }
+        }
+    }
+}
+
 .section-product-category{
     .content_row{display: flex; flex-direction: column;}
     .products{
@@ -366,4 +401,28 @@
 
 
 .arrow{width: 42px; height: 42px;}
+
+
+.stars{
+    text-align: center;
+    &__container{
+        position: relative;
+        display: inline-flex;
+    }
+    .star{font-size: 24px;}
+    
+    .star-inner{
+        position: absolute;
+        top: 0; left: 0;
+        overflow: hidden;
+        width: 0;
+    }
+    .star-out::before,.star-inner::before{
+        content: "\f005 \f005 \f005 \f005 \f005";
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+    }
+    .star-out::before{color: $clear;}
+    .star-inner::before{color: $secondary;}
+}
 

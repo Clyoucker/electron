@@ -21,6 +21,7 @@ export default class Product extends Component{
                 {userAvatar:"https://pentad.ru/wp-content/uploads/2019/12/Tyazhelyj-den.jpg",userName:"Forever",countReview:5,type:"like",comment:"Awesome game!! However, for future updates please STOP feeding us with images of whats to come and just release it. We would like to explore these new biomes by ourselves without seeing every single thing that's being added."},
                 {userAvatar:"https://ustaliy.ru/wp-content/uploads/2022/03/these-crazy-facts1.jpg",userName:"One x One",countReview:5,type:"like",comment:"Awesome game!! However, for future updates please STOP feeding us with images of whats to come and just release it. We would like to explore these new biomes by ourselves without seeing every single thing that's being added."},
                 {userAvatar:"https://www.meme-arsenal.com/memes/8a61eb276dc5c58c32d6ab8a38b1d122.jpg",userName:"Click",countReview:5,type:"like",comment:"Awesome game!! However, for future updates please STOP feeding us with images of whats to come and just release it. We would like to explore these new biomes by ourselves without seeing every single thing that's being added."},
+                {userAvatar:"https://cdn.discordapp.com/attachments/1038511913442746499/1057283166626402344/-------10.jpg",userName:"Click",countReview:5,type:"like",comment:"Bochníky jsou úžasné za 49,99 rublů!"},
             ],
             reviews:6,
             information:{
